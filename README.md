@@ -11,7 +11,7 @@
   
 </details>
 
-<h1><a href="#">Bisection Rule</a></h1>
+<h1><a href="https://github.com/Md-Rifat-Hossen/Deferent_Method_Using-C-/tree/master/Bisection%20Methode%20">Bisection Rule</a></h1>
 <details>
 <p>
 The method is also called the interval halving method, the binary search method or the dichotomy method. This method is used to find root of an equation in a given interval that is value of ‘x’ for which f(x) = 0 . 
